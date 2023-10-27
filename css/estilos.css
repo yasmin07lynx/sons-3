@@ -38,12 +38,12 @@ h1 {
   box-shadow: 3px 3px 0 var(--cinza);
   color: var(--vermelha);
   cursor: pointer;
-  height: 120px;
+  height: 160px;
   font-size: 1.75em;
   font-weight: bold;
   line-height: 120px;
   text-align: center;
-  width: 120px;
+  width: 200px;
 }
 
 .tecla.ativa,
